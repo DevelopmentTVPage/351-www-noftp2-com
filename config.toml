@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Test: First Party Cookies = False"
+baseURL = "https:\/\/www.noftp2.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758397"
+subfolder = ""
+firstpartycookies = false
+cookiedomain = "noftp2.com"
